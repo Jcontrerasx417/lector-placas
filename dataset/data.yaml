@@ -1,0 +1,5 @@
+train: /content/lector-placas/dataset/train/images
+val: /content/lector-placas/dataset/valid/images
+
+nc: 1
+names: ['placa']
